@@ -1,5 +1,5 @@
 {
-  "miniprogramRoot": "./dist",
+  "miniprogramRoot": "./",
   "projectname": "miFasting",
   "description": "interminate fasting mini app",
   "appid": "wxc559a5e9919fb76c",
