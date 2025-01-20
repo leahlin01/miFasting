@@ -1,0 +1,23 @@
+.count-circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+}
+
+.circle {
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.timer {
+  position: absolute;
+  font-size: 24px;
+  color: black;
+}
